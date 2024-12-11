@@ -5,7 +5,7 @@ import { Globe, AlertCircle, Code, ChevronRight } from 'lucide-react';
 
 interface CheckItem {
   label: string;
-  status: 'loading' | 'complete' | 'error' | 'pending';
+  status: 'loading' | 'compl            ete' | 'error' | 'pending';
 }
 
 interface DashboardCardProps {
